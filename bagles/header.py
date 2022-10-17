@@ -1,4 +1,3 @@
-# LMS 강의 자료실 실습 파일 일부를 발췌하였습니다.
 
 def star_line(count):
     for i in range(count):

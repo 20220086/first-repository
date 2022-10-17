@@ -36,5 +36,5 @@ def print_sin(a,b,c,d):
 
         # sin 별 위치 = round(sinval*25)
 
-print_sin(0,360,99,36)
+print_sin(0,720,99,72)
 os.system("pause")

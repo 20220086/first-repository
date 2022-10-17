@@ -1,0 +1,6 @@
+def print_grade(student1, score1, student2, score2, student3, score3):
+    print(student1, " : ", "*"*int(score1/5), "(", score1, "점)")
+    print(student2, " : ", "*"*int(score2/5), "(", score1, "점)")
+    print(student3, " : ", "*"*int(score3/5), "(", score1, "점)")
+
+print_grade("길상준", 100, "길준상", 80, "상준길", 60)
